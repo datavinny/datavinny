@@ -1,9 +1,9 @@
-## Hi! I'm Davi Freitas aka Data. 
+## Hi! I'm Davi Freitas. 
 
 ## About Me
 * I'm currently in a full-stack web developer course at Trybe.
 
-* As a hobby like to create comics and games.
+* As a hobby I like to create comics and games.
 <!---
 ## My Portfolio
 * You can access [my portfolio with this link](https://datavinny.github.io/).
@@ -11,8 +11,8 @@
 ## My GitHub Stats
 <div align="center">
   <a href="https://github.com/datavinny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datavinny&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact&langs_count=7&theme=white"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=datavinny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!---
