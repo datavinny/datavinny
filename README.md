@@ -1,20 +1,21 @@
 ## Hi! I'm Davi Freitas aka Data. 
 
 ## About Me
-I'm currently studying a full-stack web developer course at Trybe. 
+* I'm currently studying a full-stack web developer course at Trybe. 
 
-As a hobby like to create comics and games.
-
+* As a hobby like to create comics and games.
+<!---
 ## My Portfolio
-You can access [my portfolio with this link](https://datavinny.github.io/).
-
+* You can access [my portfolio with this link](https://datavinny.github.io/).
+-->
 ## My GitHub Stats
 <div align="center">
   <a href="https://github.com/datavinny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datavinny&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact&langs_count=7&theme=white"/>
 </div>
-  
+
+<!---
 ## Technologies I've Worked With
   <div style="display: inline_block"></div> 
   <h3>Languages 💻</h3>
@@ -38,9 +39,10 @@ You can access [my portfolio with this link](https://datavinny.github.io/).
     <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
     <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"> 
     <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> 
-  </div>
+  </div> 
+-->
 
- ## Contact
+## Contact
 <div style="display: inline_block">  
   <a href="https://www.linkedin.com/in/datavinny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
