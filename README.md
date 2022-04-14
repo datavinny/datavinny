@@ -3,7 +3,7 @@
 ## About Me
 * I'm currently in a full-stack web developer course at Trybe.
 
-* As a hobby I like to create comics and games.
+* As a hobby, I like to create comics and games.
 <!---
 ## My Portfolio
 * You can access [my portfolio with this link](https://datavinny.github.io/).
