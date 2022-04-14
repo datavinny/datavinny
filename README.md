@@ -1,7 +1,7 @@
 ## Hi! I'm Davi Freitas aka Data. 
 
 ## About Me
-* I'm currently studying a full-stack web developer course at Trybe. 
+* I'm currently in a full-stack web developer course at Trybe.
 
 * As a hobby like to create comics and games.
 <!---
