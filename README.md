@@ -28,7 +28,8 @@ You can access [my portfolio with this link](https://datavinny.github.io/).
   <div>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
     <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
-    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"> 
+    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+    <img align="center" alt="TL" height="30" width="40" src="https://camo.githubusercontent.com/87ff770415dc2db9c126e610bdd50975213ef22d7b742b600307ad9645d82196/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f74657374696e672d6c6962726172792e737667">
     <img align="center" alt="Bulma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg"> 
   </div> 
   <h3>Tools 🔧</h3>
