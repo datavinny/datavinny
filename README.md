@@ -2,7 +2,6 @@
 
 ## About Me
 * I'm currently in a full-stack web developer course at Trybe.
-
 * As a hobby, I like to create comics and games.
 <!---
 ## My Portfolio
@@ -10,7 +9,6 @@
 -->
 ## My GitHub Stats
 <div align="center">
-  <a href="https://github.com/datavinny">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=datavinny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -42,8 +40,8 @@
   </div> 
 -->
 
-## Contact
-<div style="display: inline_block">  
+## Social links
+<div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/datavinny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
