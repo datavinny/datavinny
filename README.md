@@ -12,8 +12,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=datavinny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<!---
 ## Technologies I've Worked With
   <div style="display: inline_block"></div> 
   <h3>Languages 💻</h3>
@@ -38,10 +36,9 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"> 
     <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> 
   </div> 
--->
-
 ## Social links
 <div style="display: inline_block"> 
-  <a href="https://www.linkedin.com/in/datavinny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/datavinny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://datavinny.github.io/" target="_blank">Portfolio</a> 
 </div>
 
