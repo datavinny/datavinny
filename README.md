@@ -1,17 +1,19 @@
-## Hi! I'm Davi Freitas. 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+  Hey, I'm Davi!</h1>
 
 ## About Me
-* I'm currently in a full-stack web developer course at Trybe.
+* I'm currently in a full-stack web developer course at Trybe. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 * As a hobby, I like to create comics.
 
 ## My Portfolio
 * You can access [my portfolio with this link](https://datavinny.github.io/).
 
 ## My GitHub Stats
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=datavinny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datavinny&show_icons=true&locale=en&layout=compact&theme=radical" width=300/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datavinny&theme=radical" /></p>
+  <br />
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=datavinny&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 ## Technologies I've Worked With
   <div style="display: inline_block"></div> 
@@ -39,9 +41,12 @@
     <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=148&color=currentColor">
     <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
   </div> 
-  
-## Social links
-<div style="display: inline_block"> 
-  <a href="https://www.linkedin.com/in/datavinny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+ 
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/datavinny" target="_blank"><img alt="Github"
+      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/datavinny" target="_blank"><img alt="LinkedIn"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
