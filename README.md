@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hey, I'm Davi!</h1>
+  Hi, My name is Davi Freitas</h1>
 
 ## About Me
 * I'm currently in a full-stack web developer course at Trybe. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
